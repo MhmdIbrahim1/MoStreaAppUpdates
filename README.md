@@ -1,0 +1,2 @@
+# MoStreaAppUpdates
+AppUpdates
